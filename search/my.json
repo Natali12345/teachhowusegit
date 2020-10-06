@@ -1,0 +1,56 @@
+{
+  "shit": [
+    {
+      "name": "banana",
+      "color": "yellow",
+      "type" :  "fruit" 
+    },
+    {
+      "name": "orange",
+      "color": "orange",
+      "type": "fruit"
+    },
+    {
+      "name": "pineapple",
+      "color": "yellow",
+      "type": "fruit"
+    },
+    {
+      "name": "mango",
+      "color": "orange",
+      "type": "fruit"
+    },
+    {
+      "name": "mandarin",
+      "color": "orange",
+      "type": "fruit"
+    },
+    {
+      "name": "cucumber",
+      "color": "green",
+      "type": "vegetable"
+    },
+    {
+      "name": "cabbage",
+      "color": "green",
+      "type": "vegetable"
+    },
+    {
+      "name": "carrot",
+      "color": "orange",
+      "type": "vegetable"
+    },
+    {
+      "name": "tomato",
+      "color": "yellow",
+      "type": "vegetable"
+    },
+    {
+      "name": "pepper",
+      "color": "yellow",
+      "type": "vegetable"
+    }
+  ]
+
+
+}
